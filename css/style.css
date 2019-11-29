@@ -1,0 +1,11 @@
+.container [class*="col-"] {
+  padding: 10px;
+}
+.container [class*="col-"] .container {
+  background: red;
+  height: 100%;
+  border:
+}
+.container [class*="col-"] .container [class*="col-"] {
+  border: 1px solid white;
+}
